@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54eddce6-5abe-4d19-b4fc-eccd1f9eb05e" name="Changes" comment="new file practice1 is created">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="54eddce6-5abe-4d19-b4fc-eccd1f9eb05e" name="Changes" comment="added gitignore file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +102,28 @@
       <option name="project" value="LOCAL" />
       <updated>1641882464166</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added gitignore file">
+      <created>1641882879814</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1641882879814</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added gitignore file">
+      <created>1641882951857</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1641882951857</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added gitignore file">
+      <created>1641883057921</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1641883057921</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +159,7 @@
     <MESSAGE value="work 2 is done" />
     <MESSAGE value="work 3 is done" />
     <MESSAGE value="new file practice1 is created" />
-    <option name="LAST_COMMIT_MESSAGE" value="new file practice1 is created" />
+    <MESSAGE value="added gitignore file" />
+    <option name="LAST_COMMIT_MESSAGE" value="added gitignore file" />
   </component>
 </project>
