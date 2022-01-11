@@ -4,7 +4,5 @@ public class HelloWorld {
 //doing work 3
     //awesome work3
     //awesome work4
-    public static void main(String[] args) {
 
-    }
 }
